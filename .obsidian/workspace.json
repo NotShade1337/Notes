@@ -11,8 +11,15 @@
             "id": "439ac26934db3378",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Subjects/Chemistry/Organic/Organic Chemistry.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
             }
           }
         ]
@@ -81,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Subjects/Chemistry/Organic/Organic Chemistry.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Subjects/Chemistry/Organic/Organic Chemistry.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +127,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Subjects/Chemistry/Organic/Organic Chemistry.canvas"
+              }
             }
           }
         ]
@@ -142,7 +153,21 @@
   },
   "active": "439ac26934db3378",
   "lastOpenFiles": [
+    "Subjects/Chemistry/Organic/HALOALKANES & HALOARENES/HALOALKANES & HALOARENES.canvas",
+    "Subjects/Maths/Maths.canvas",
+    "Subjects/Physics/Physics.canvas",
+    "Subjects/Chemistry/Physical/Physical Chemistry.canvas",
+    "Subjects/Chemistry/Inorganic/Inorganic Chemistry.canvas",
+    "Subjects/Chemistry/Organic/Organic Chemistry.canvas",
     "README.md",
+    "Subjects/Chemistry/Organic/HALOALKANES & HALOARENES",
+    "Subjects/Chemistry/Physical",
+    "Subjects/Chemistry/Inorganic",
+    "Subjects/Chemistry/Organic",
+    "Subjects/Maths",
+    "Subjects/Chemistry",
+    "Subjects/Physics",
+    "Subjects",
     "Welcome.md"
   ]
 }
