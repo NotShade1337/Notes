@@ -11,14 +11,12 @@
             "id": "439ac26934db3378",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Subjects/Chemistry/Organic/Organic Chemistry.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -88,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/Chemistry/Organic/Organic Chemistry.canvas",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/Chemistry/Organic/Organic Chemistry.canvas",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/Chemistry/Organic/Organic Chemistry.canvas"
+                "file": "README.md"
               }
             }
           }
@@ -153,12 +151,12 @@
   },
   "active": "439ac26934db3378",
   "lastOpenFiles": [
+    "Subjects/Chemistry/Organic/Organic Chemistry.canvas",
     "Subjects/Chemistry/Organic/HALOALKANES & HALOARENES/HALOALKANES & HALOARENES.canvas",
     "Subjects/Maths/Maths.canvas",
     "Subjects/Physics/Physics.canvas",
     "Subjects/Chemistry/Physical/Physical Chemistry.canvas",
     "Subjects/Chemistry/Inorganic/Inorganic Chemistry.canvas",
-    "Subjects/Chemistry/Organic/Organic Chemistry.canvas",
     "README.md",
     "Subjects/Chemistry/Organic/HALOALKANES & HALOARENES",
     "Subjects/Chemistry/Physical",
